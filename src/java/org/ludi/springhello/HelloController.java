@@ -10,4 +10,8 @@ public class HelloController {
         return "hello";
     }
 
+    @RequestMapping("/etf")
+    public String eingeben() {
+        return "etf-form";
+    }
 }
