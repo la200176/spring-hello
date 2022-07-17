@@ -5,11 +5,13 @@
     <title>etf eingeben</title>
 </head>
 <body>
-    <form>
-        <input type="text" name="ludi-code"/>
-        <input type="text" name="isin"/>
-        <input type="text" name="db-name"/>
-        <input type="submit"/>
-    </form>
+    <div class="meins" id="form-1">
+        <form>
+            <input type="text" name="ludi-code"/><br/>
+            <input type="text" name="isin"/><br/>
+            <input type="text" name="db-name"/><br/>
+            <input type="submit"/>
+        </form>
+    </div>
 </body>
 </html>

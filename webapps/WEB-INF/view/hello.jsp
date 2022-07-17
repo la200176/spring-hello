@@ -5,6 +5,14 @@
     <title>hello</title>
 </head>
 <body>
-    <ul>hello 3344</ul>
+    <div>
+        <h2>${controllername}</h2>
+    </div>
+
+    <hr/>
+
+    <ul>
+        <li><a href="etf">etf-form</a></li>
+    </ul>
 </body>
 </html>
